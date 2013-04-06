@@ -10,3 +10,6 @@ extensible way.
 
 Check the [docs](http://dput.rtfd.org) for more on topics that might
 interest you.
+
+
+YAY FOR OPENHATCH
